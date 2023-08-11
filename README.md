@@ -1,5 +1,4 @@
 # SIIMPLE-CSS-WEB-SITE-ORNEGI-BASLANGIC
-
 ## [Simple.css sitesine gitmek için tıklayabilirsiniz.](https://simplecss.org/) 
 **Bu sayfa, Simple.css adlı hafif ve basit bir CSS çerçevesi kullanılarak oluşturulmuştur. Amacım, görsel olarak çekici ve hızlı yüklenen web sayfaları tasarlamaktı ve Simple.css bize bu konuda harika bir yardımcı oldu.Simple.css'in sunduğu temel bileşenler ve stil seçenekleri kullanılarak, sayfa düzeni okunabilirliği artırırken, gereksiz karmaşıklıklardan kaçınıyor.**
 
